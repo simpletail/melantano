@@ -1,6 +1,6 @@
 - 👀 Fullstack Blockchain developer
 - 🌱 learn new everyday.
-- 💞️ Morality @ ethics
+- 💞️ Morality @ Ethics
 
 <!---
 ethics-water/ethics-water is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
